@@ -1,5 +1,5 @@
 # Hi there, I'm Marvin Guillen 👋
-
+<img src="marvinaguillen.jpg" alt="Marvin Guillen" width="150px" align="right" />
 ### Senior Full Stack Developer | Cloud & HPC Master's Student at UPV 🚀
 
 Systems Engineer with 10+ years of experience leading Full Stack projects (.NET, Angular) and ERP architectures. Currently scaling my technical stack into Cloud Computing, Microservices, and High-Performance Computing.
