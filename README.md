@@ -23,5 +23,7 @@ Systems Engineer with 10+ years of experience leading Full Stack projects (.NET,
 
 ### 📊 GitHub Stats
 
-![Marvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marvinaguillen&show_icons=true&theme=radical" alt="Marvin's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinaguillen&layout=compact&theme=radical" alt="Top Langs" height="192px" />
+</p>
